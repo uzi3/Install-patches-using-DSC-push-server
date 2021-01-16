@@ -1,0 +1,1 @@
+This desired state configuration script can be used to install the patches from a DSC push server to remote servers. This script uses example of patching 2016 domain controllers. You can use this as a base and modify according to the need. 
